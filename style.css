@@ -5,18 +5,22 @@
 
 #navbar ul {
     list-style: none;
-    float: right;
     padding: 0;
-    
 }
 
 #navbar li {
     display: inline;
-    padding: 10px;
+    padding: 20px;
 }
 
 #navbar a {
     text-decoration: none;
     color: #fff;
-    font-size: 18px;
+    font-size: 20px;
+}
+
+#welcome {
+    font-weight: 100;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
 }
